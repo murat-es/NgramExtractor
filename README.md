@@ -32,6 +32,7 @@ The command ”java NgramExtractor input.txt output.csv 1” must extract all 1-
 
 Total number of tokens: 42
 ngram,count,frequency 
+
 and,2,4.761904762 
 of,2,4.761904762 
 words,2,4.761904762 
