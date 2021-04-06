@@ -7,7 +7,7 @@ This program sorts the frequency of the letters.
 Before execute, be sure java file and input file at the same index.
 
 To execute the program:
->	$javac NgramExtractor.java 
+>	$javac NgramExtractor.java >
 >	$java NgramExtractor input.txt output.csv n
 
 -----------------------------------------------------
